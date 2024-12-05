@@ -2,7 +2,10 @@
 This repository contains comprehensive documentation for the EsCore Application, including a complete guide to using the API
 
 ## User Register   
-**POST**: `https://escore-app.et.r.appspot.com/api/register`  
+**POST**:
+```
+https://escore-app.et.r.appspot.com/api/register
+``` 
 
 **Request Body**
 ```json
@@ -31,7 +34,10 @@ This repository contains comprehensive documentation for the EsCore Application,
 ```
 
 ## User Login   
-**POST**: `https://escore-app.et.r.appspot.com/api/login`  
+**POST**:
+```
+https://escore-app.et.r.appspot.com/api/login
+```  
 
 **Request Body**
 ```json
@@ -65,7 +71,10 @@ This repository contains comprehensive documentation for the EsCore Application,
 ```
 
 ## History Prediction   
-**GET**: `https://escore-app.et.r.appspot.com/api/history/:email`  
+**GET**:
+```
+https://escore-app.et.r.appspot.com/api/history/:email
+```  
 
 **Response Success**
 ```json
@@ -98,7 +107,10 @@ This repository contains comprehensive documentation for the EsCore Application,
 ```
 
 ## Essay Prediction   
-**POST**: `https://backend-ml-g4eq4oioha-et.a.run.app/predict`  
+**POST**:
+```
+https://backend-ml-g4eq4oioha-et.a.run.app/predict
+```
 
 **Request Body**
 ```json
