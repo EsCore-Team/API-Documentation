@@ -73,9 +73,7 @@ This repository contains comprehensive documentation for the EsCore Application,
     "error": false,
     "message": "History predictions retrieved successfully!",
     "email": "string"
-    "preditcions": {
-        "predictions": "array",
-    }
+    "preditcions": "array"
 }
 ```
 
